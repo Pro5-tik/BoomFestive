@@ -1,0 +1,19 @@
+ /* CSS for Header panel */
+ #theme_optin_body {
+    background: #fff;
+    padding: 20px 25px;
+    margin-top: 5px;
+    width: 90%;
+    max-width: 1000px;
+    border: 1px solid #ddd;
+  }
+  .nav-pills .nav-link.active,.nav-pills .show>.nav-link {
+    color: #007cba;;
+    background-color:#fff;
+}
+.theme_options{
+    border: 1px solid #ddd;
+    margin-top: 30px;
+    margin-right: 50px;
+    padding: 10px;
+}
